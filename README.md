@@ -1,2 +1,2 @@
-# domain_explorer
-Generate random names and check if them avaliable as domains
+# Domain explorer 
+Generate random names and check if they available as domains
