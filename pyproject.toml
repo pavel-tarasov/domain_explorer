@@ -1,0 +1,9 @@
+[project]
+name = "domain_explorer"
+description = "Generate random names and check if they available as domains"
+version = "0.0.1"
+authors = [
+    { name = "Pavel Tarasov", email = "pavel.a.tarasov@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
